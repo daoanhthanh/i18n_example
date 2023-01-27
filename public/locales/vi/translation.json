@@ -1,0 +1,14 @@
+{
+  "title": "Chào mừng đến với react sử dụng react-i18next",
+  "description": {
+    "part1": "Hello, ahihi",
+    "part2": "Thay đổi ngôn ngữ bằng hai nút trên"
+  },
+  "very": {
+    "deeply": {
+      "part": {
+        "here": "Xin chào quý zị và các bợn"
+      }
+    }
+  }
+}
